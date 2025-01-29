@@ -1,40 +1,18 @@
-# BHE Software Engineer Coding Exercise
+### Build and Run the Service
 
-## The Sieve of Eratosthenes
+1. Open the solution in Visual Studio 2022.
+2. Restore the NuGet packages.
+3. Build the solution.
+4. Run the project.
 
-Prime numbers have many modern day applications and a long history in 
-mathematics. Utilizing your own resources, research the sieve of Eratosthenes,
-an algorithm for generating prime numbers. Based on your research, implement 
-an API that allows the caller to retrieve the Nth prime number.
-Some stub code and a test suite have been provided as a convenience. However, 
-you are encouraged to deviate from Eratosthenes's algorithm, modify the 
-existing functions/methods, or anything else that might showcase your ability; 
-provided the following requirements are satisfied.
+The service will be available at `https://localhost:<port>/api/sieve`.
 
-You must author your work in Go, JavaScript/TypeScript, Python, or C# - all 
-other language submissions will be rejected. Stub code has been provided, so 
-please choose from one of the provided language stubs that is most 
-relevant to your skill set and the position you are applying for.
+## Endpoints
 
-### Requirements
+### Get Nth Prime
 
-- Fork this repo to implement your solution
-- The library package provides an API for retrieving the Nth prime number using 0-based indexing where the 0th prime number is 2
-- Interviewers must be able to execute a suite of tests
-  - Go: `go test ./...`
-  - C#: `dotnet test Sieve.Tests`
-  - Javascript: `npm run test`
-  - Python: `python -m unittest test_sieve.py`
-- Your solution is committed to your project's `main` branch, no uncommitted changes or untracked files please
-- Submit the link to your public fork for review
-
-### Considerations
-
-You may add more tests or restructure existing tests, but you may NOT change or remove
-the existing test outcomes; eg- f(0)=2, f(19)=71, f(99)=541, ..., f(10000000)=179424691 
-
-During the technical interview, your submission will be discussed, and you will be evaluated in the following areas:
-
-- Technical ability
-- Communication skills
-- Work habits and complementary skills
+- **URL:** `GET /api/sieve`
+- **Query Parameters:**
+  - `n` (int): The position of the prime number to retrieve.
+- **Response:**
+  - `200 OK`: Returns the nth prime number.
