@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Sieve_Service.Controllers.SieveController",
+    "Method": "GetNthPrime",
+    "RelativePath": "api/Sieve",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sieve_Service.Controllers.SieveController",
+    "Method": "IsTwinPrime",
+    "RelativePath": "api/Sieve/twinprime",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

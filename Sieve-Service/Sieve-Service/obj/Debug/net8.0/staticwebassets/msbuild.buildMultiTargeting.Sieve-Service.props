@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sieve-Service.props" />
+</Project>

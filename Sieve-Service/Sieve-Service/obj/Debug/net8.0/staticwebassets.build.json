@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7EpPOtNRQLfQngmRQHoKn+qigPRetG43X6ndP+sysrU=",
+  "Source": "Sieve-Service",
+  "BasePath": "_content/Sieve-Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
