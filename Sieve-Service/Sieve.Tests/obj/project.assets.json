@@ -6096,11 +6096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve.Tests\\Sieve.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve.Tests\\Sieve.Tests.csproj",
       "projectName": "Sieve.Tests",
-      "projectPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve.Tests\\Sieve.Tests.csproj",
+      "projectPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve.Tests\\Sieve.Tests.csproj",
       "packagesPath": "C:\\Users\\ksmo9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve.Tests\\obj\\",
+      "outputPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6121,8 +6121,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj": {
-              "projectPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj"
+            "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj": {
+              "projectPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj"
             }
           }
         }

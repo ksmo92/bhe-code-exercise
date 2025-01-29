@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sieve.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b10e9382e1e3eafc8fa01e45c72658236040a27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa11d6c0e03635d4c79ee7235929e9a6ac7c5eee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sieve.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sieve.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\",
+  "WorkspaceRootPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\csharp\\sieve-service\\sieve-service\\controllers\\sievecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78ECBEC0-9FBB-4B20-8445-23FDA5C75E30}|Sieve.Tests\\Sieve.Tests.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\sieve-service\\sieve.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECBEC0-9FBB-4B20-8445-23FDA5C75E30}|Sieve.Tests\\Sieve.Tests.csproj|solutionrelative:sieve.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\sieve-service\\sieve-service\\controllers\\sievecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|solutionrelative:sieve-service\\controllers\\sievecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\csharp\\sieve-service\\sieve-service\\helpers\\sievehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\sieve-service\\sieve-service\\helpers\\sievehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|solutionrelative:sieve-service\\helpers\\sievehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\csharp\\sieve-service\\sieve-service\\services\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\sieve-service\\sieve-service\\services\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|solutionrelative:sieve-service\\services\\primeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\csharp\\sieve-service\\sieve-service\\repository\\primecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\sieve-service\\sieve-service\\repository\\primecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8434F77F-0A1C-43CB-8E28-274809C27884}|Sieve-Service\\Sieve-Service.csproj|solutionrelative:sieve-service\\repository\\primecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78ECBEC0-9FBB-4B20-8445-23FDA5C75E30}|Sieve.Tests\\Sieve.Tests.csproj|c:\\users\\ksmo9\\documents\\github\\bhe-code-exercise\\csharp\\sieve-service\\sieve.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78ECBEC0-9FBB-4B20-8445-23FDA5C75E30}|Sieve.Tests\\Sieve.Tests.csproj|solutionrelative:sieve.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SieveHelper.cs",
-              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Helpers\\SieveHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Helpers\\SieveHelper.cs",
               "RelativeDocumentMoniker": "Sieve-Service\\Helpers\\SieveHelper.cs",
-              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Helpers\\SieveHelper.cs",
+              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Helpers\\SieveHelper.cs",
               "RelativeToolTip": "Sieve-Service\\Helpers\\SieveHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T01:43:56.402Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrimeService.cs",
-              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Services\\PrimeService.cs",
-              "RelativeDocumentMoniker": "Sieve-Service\\Services\\PrimeService.cs",
-              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Services\\PrimeService.cs",
-              "RelativeToolTip": "Sieve-Service\\Services\\PrimeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T01:49:37.497Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PrimeCache.cs",
-              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Repository\\PrimeCache.cs",
-              "RelativeDocumentMoniker": "Sieve-Service\\Repository\\PrimeCache.cs",
-              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Repository\\PrimeCache.cs",
-              "RelativeToolTip": "Sieve-Service\\Repository\\PrimeCache.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Title": "PrimeService.cs",
+              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Services\\PrimeService.cs",
+              "RelativeDocumentMoniker": "Sieve-Service\\Services\\PrimeService.cs",
+              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Services\\PrimeService.cs",
+              "RelativeToolTip": "Sieve-Service\\Services\\PrimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T01:04:32.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T01:49:37.497Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PrimeCache.cs",
+              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Repository\\PrimeCache.cs",
+              "RelativeDocumentMoniker": "Sieve-Service\\Repository\\PrimeCache.cs",
+              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Repository\\PrimeCache.cs",
+              "RelativeToolTip": "Sieve-Service\\Repository\\PrimeCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:04:32.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve.Tests\\ControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve.Tests\\ControllerTests.cs",
               "RelativeDocumentMoniker": "Sieve.Tests\\ControllerTests.cs",
-              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve.Tests\\ControllerTests.cs",
+              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve.Tests\\ControllerTests.cs",
               "RelativeToolTip": "Sieve.Tests\\ControllerTests.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwEYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T02:22:59.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SieveController.cs",
-              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Controllers\\SieveController.cs",
+              "DocumentMoniker": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Controllers\\SieveController.cs",
               "RelativeDocumentMoniker": "Sieve-Service\\Controllers\\SieveController.cs",
-              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Controllers\\SieveController.cs",
+              "ToolTip": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Controllers\\SieveController.cs",
               "RelativeToolTip": "Sieve-Service\\Controllers\\SieveController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T01:32:45.157Z",
               "EditorCaption": ""

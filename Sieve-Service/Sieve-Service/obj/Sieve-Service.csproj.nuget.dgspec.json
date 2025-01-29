@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj": {}
+    "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj": {
+    "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj",
+        "projectUniqueName": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj",
         "projectName": "Sieve-Service",
-        "projectPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj",
+        "projectPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\Sieve-Service.csproj",
         "packagesPath": "C:\\Users\\ksmo9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\csharp\\Sieve-Service\\Sieve-Service\\obj\\",
+        "outputPath": "C:\\Users\\ksmo9\\Documents\\GitHub\\bhe-code-exercise\\Sieve-Service\\Sieve-Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
